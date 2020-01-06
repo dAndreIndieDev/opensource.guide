@@ -1,6 +1,6 @@
 # Open Source Guides
 
-[![rgg](https://travis-ci.org/github/opensource.guide.svg?branch=master)](https://travis-ci.org/github/opensource.guide)
+[![Build Status](https://ibb.co/P1k93h1)](https://travis-ci.org/github/opensource.guide)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
 
